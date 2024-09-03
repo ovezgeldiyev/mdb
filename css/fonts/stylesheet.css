@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Averta';
+    src: url('Muli-Black.ttf') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Averta';
+    src: url('Muli-ExtraBold.ttf') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Averta';
+    src: url('Muli-ExtraBoldItalic.ttf') format('woff2');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Averta';
+    src: url('Muli-SemiBold.ttf') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Averta';
+    src: url('Muli-Regular.ttf') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Noe Display';
+    src: url('noe-display-bold-italic.ttf') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Noe Display';
+    src: url('Noe-Display-Regular-Italic.ttf') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
